@@ -1,2 +1,2 @@
 // write your code below!
-function happyHoliday
+function happyHolidays (console.log "Happy holidays!")
